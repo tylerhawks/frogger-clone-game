@@ -7,7 +7,7 @@
 
 ## Setup
 
-To play the game load the "index.html" file into your browser.
+To play the game; download or clone this repository and load the "index.html" file into your browser.
 
 Refresh the page to play again.
 
